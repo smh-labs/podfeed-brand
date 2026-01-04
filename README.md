@@ -1,6 +1,13 @@
-# Podfeed Logo Identity
+# Podfeed Brand
 
-This folder contains the complete Podfeed logo identity package.
+This repository contains the official Podfeed brand assets, including logos, icons, and brand guidelines.
+
+## Contents
+
+- Logo variants (primary, monochromatic, transparent background)
+- Favicon
+- Brand color palette
+- Usage guidelines
 
 ## Brand Colors
 
@@ -42,16 +49,3 @@ This folder contains the complete Podfeed logo identity package.
 2. **Clear Space**: Maintain clear space around the logo equal to 20% of its size
 3. **Don't**: Stretch, rotate, change colors, or add effects to the logo
 4. **Background Contrast**: Ensure sufficient contrast between the logo and its background
-
-## Implementation
-
-### Favicon (in HTML head)
-```html
-<link rel="icon" type="image/svg+xml" href="/logo/podfeed-favicon.svg">
-<link rel="icon" type="image/x-icon" href="/favicon.ico">
-```
-
-### Vue/Vuetify Component
-```vue
-<v-img src="/logo/podfeed-logo-primary.svg" width="40" height="40" />
-```
