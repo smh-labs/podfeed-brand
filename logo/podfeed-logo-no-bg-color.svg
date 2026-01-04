@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Podfeed Logo: No Background - Brand Colors (for any background) -->
+  
+  <defs>
+    <linearGradient id="waveGradient" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E51EE"/>
+      <stop offset="100%" stop-color="#4A90D9"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Sound wave bars - forming letter P shape -->
+  <g transform="translate(1, 0) rotate(4.5, 50, 50)">
+    <path d="M28,21 A 80,80 0 0,1 28,79" stroke="url(#waveGradient)" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <path d="M42,24 A 50,50 0 0,1 45,58" stroke="url(#waveGradient)" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <path d="M56,27 A 40,40 0 0,1 58,51" stroke="url(#waveGradient)" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <path d="M69,30 A 30,30 0 0,1 70,44" stroke="url(#waveGradient)" stroke-width="5" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>

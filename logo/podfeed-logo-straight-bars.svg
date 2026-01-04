@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Podfeed Logo: Sound Waves in Rounded Square -->
+  
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E51EE"/>
+      <stop offset="100%" stop-color="#4A90D9"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Rounded square background -->
+  <rect x="5" y="5" width="90" height="90" rx="20" ry="20" fill="url(#bgGradient)"/>
+  
+  <!-- Sound wave bars - centered -->
+  <rect x="20" y="40" width="5" height="10" rx="2.5" fill="#FFFFFF"/>
+  <rect x="31" y="35" width="5" height="20" rx="2.5" fill="#FFFFFF"/>
+  <rect x="42" y="21" width="5" height="58" rx="2.5" fill="#FFFFFF"/>
+  <rect x="53" y="28" width="5" height="34" rx="2.5" fill="#FFFFFF"/>
+  <rect x="64" y="35" width="5" height="20" rx="2.5" fill="#FFFFFF"/>
+  <rect x="75" y="40" width="5" height="10" rx="2.5" fill="#FFFFFF"/>
+</svg>
