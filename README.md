@@ -29,6 +29,14 @@ This repository contains the official Podfeed brand assets, including logos, ico
 | `podfeed-logo-mono-dark.svg` | Monochromatic with dark background | Light backgrounds, print |
 | `podfeed-logo-mono-light.svg` | Monochromatic with light background | Dark backgrounds |
 
+### With Text (Horizontal)
+
+| File | Description | Best Used On |
+|------|-------------|--------------|
+| `podfeed-logo-text-dark.svg` | Icon + "Podfeed" text in dark | Light backgrounds, headers |
+| `podfeed-logo-text-light.svg` | Icon + "Podfeed" text in white | Dark backgrounds, headers |
+| `podfeed-logo-text-color.svg` | Gradient icon + dark text | Light backgrounds, marketing |
+
 ### Without Background (Transparent)
 
 | File | Description | Best Used On |
